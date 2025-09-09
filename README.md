@@ -23,7 +23,7 @@ My goal is to contribute to cutting-edge research in **Computational Biology**,*
 
 🔭 **My Key Projects:**
 
-1.  **[Project 1 : HOMEOBOT - GenAI Homeopathic Doctor]**
+1.  **Project 1 : HOMEOBOT - GenAI Homeopathic Doctor**
     *   HOMEOBOT
       Homeobot is an GenAI project where GenAI power is leveraged to treat diseases symptomatically.
       The user has to give history and symptoms faced by patient for diagnosis by following methods :-
