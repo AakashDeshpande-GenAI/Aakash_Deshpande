@@ -31,11 +31,7 @@ My goal is to contribute to cutting-edge research in **Computational Biology**,*
       * 2)Voice - (analyses voice for quick diagnosis , disease->diagnosis , medicine->diagnosed for)
       * 3)chatbot - (chat with user , get history and symptoms and diagnose)
 Even this includes search grounding - (latest updates about Homeopathic medicines)and Generative agent used for chatting (long conversation)
-    *   [Link to Repository]
-
-2.  **[Project 2 : Name - Will be added later]**
-    *   *Description here.*
-    *   [Link to Repository]
+    *   https://github.com/AakashDeshpande-GenAI/Homeobot-GenAI
 
 ---
 
